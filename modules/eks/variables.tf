@@ -13,3 +13,10 @@ variable "public_subnet_az2_id" {
 variable "worker_arn" {
   
 }
+
+variable "instance_size" {
+  
+}
+variable "eks_security_group_id" {
+  
+}
